@@ -1,0 +1,10 @@
+{
+  "record_count": 6,
+  "audio_total_seconds": 164.05,
+  "audio_total_hours": 0.04557,
+  "word_timing_status": "estimated_unverified",
+  "manual_boundary_checks_completed": 0,
+  "manual_boundary_checks_required": 30,
+  "translation_model_connected": false,
+  "warning": "Do not represent this package as having completed manual audio verification."
+}

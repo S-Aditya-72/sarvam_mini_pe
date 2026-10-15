@@ -1,0 +1,108 @@
+{
+  "status": "NOT_EVALUATED",
+  "reason": "No translated model output exists; echo prototype cannot be scored for entity accuracy.",
+  "clips": [
+    {
+      "id": "clip01",
+      "expected_entities": [
+        "five lakh",
+        "five crore",
+        "one crore twenty lakh"
+      ],
+      "entity_categories": [
+        "correction",
+        "negation",
+        "amount"
+      ],
+      "predicted_translation_available": false,
+      "entity_accuracy": null,
+      "status": "reference_entities_compiled_model_accuracy_not_evaluated"
+    },
+    {
+      "id": "clip02",
+      "expected_entities": [
+        "Rohan Mehta",
+        "BluePeak Technologies",
+        "98765 43210",
+        "Priya Sharma"
+      ],
+      "entity_categories": [
+        "names",
+        "organisation",
+        "phone number",
+        "condition"
+      ],
+      "predicted_translation_available": false,
+      "entity_accuracy": null,
+      "status": "reference_entities_compiled_model_accuracy_not_evaluated"
+    },
+    {
+      "id": "clip03",
+      "expected_entities": [
+        "11 AM instead of 10 AM"
+      ],
+      "entity_categories": [
+        "negation",
+        "self-correction",
+        "time change"
+      ],
+      "predicted_translation_available": false,
+      "entity_accuracy": null,
+      "status": "reference_entities_compiled_model_accuracy_not_evaluated"
+    },
+    {
+      "id": "clip04",
+      "expected_entities": [
+        "17 October",
+        "10:30 AM",
+        "HR"
+      ],
+      "entity_categories": [
+        "date",
+        "time",
+        "condition",
+        "negation"
+      ],
+      "predicted_translation_available": false,
+      "entity_accuracy": null,
+      "status": "reference_entities_compiled_model_accuracy_not_evaluated"
+    },
+    {
+      "id": "clip05",
+      "expected_entities": [
+        "production",
+        "staging",
+        "API response time",
+        "database queries",
+        "regression tests"
+      ],
+      "entity_categories": [
+        "technical terms",
+        "negation",
+        "condition"
+      ],
+      "predicted_translation_available": false,
+      "entity_accuracy": null,
+      "status": "reference_entities_compiled_model_accuracy_not_evaluated"
+    },
+    {
+      "id": "clip06",
+      "expected_entities": [
+        "Neha",
+        "Arjun",
+        "8 lakh development cost",
+        "12.5 lakh total budget",
+        "3 PM or 4 PM unconfirmed"
+      ],
+      "entity_categories": [
+        "names",
+        "amount correction",
+        "uncertain time",
+        "do not confirm"
+      ],
+      "predicted_translation_available": false,
+      "entity_accuracy": null,
+      "status": "reference_entities_compiled_model_accuracy_not_evaluated"
+    }
+  ]
+}
