@@ -1,0 +1,5 @@
+DELIVERABLE STATUS (READ BEFORE SUBMITTING)
+
+Included: mid-term report PDF, Part A protocol notes, Part B paper research, Part C dataset design, 12 references, six WAV clips, JSONL transcript/translation drafts, timing initializations, entity reference ledger, boundary-audit sheet, Docker protocol results.
+
+NOT COMPLETE: transcript/translation drafts have not been verified against the audio; word timestamps are proportional estimates; boundary audit rows are pending and no hand-checks are claimed; no translation model/fine-tuning/English Bulbul target audio/training logs/before-after scores. The server is an echo server. Do not claim the full translation task or final gates are satisfied.
